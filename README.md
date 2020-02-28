@@ -1,6 +1,6 @@
 # How I Became an Automation Engineer
 
-[OnlineTestConf talk on June 5th, 2019](https://www.onlinetestconf.com/sessions/chris-kenst-how-i-became-an-automation-engineer/)
+Test Automation Engineering roles are becoming more common but there’s no great definition for what an Automation Engineer does. In this presentation, Chris will share his experiences on how he became one, what that the first few years have looked like: the good, bad and the ok. He’ll also share the time he spends automating vs exploring, why writing test automation doesn’t mean just focusing on the UI and where he thinks the skills and role will go in the future.
 
 ## Included
 
