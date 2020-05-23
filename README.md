@@ -17,6 +17,8 @@ Test Automation Engineering roles are becoming more common but there’s no grea
 
 ## References:
 
+- [Frequently Asked Questions of this talk](https://www.kenst.com/2020/05/faqs-to-how-i-became-an-automation-engineer-talk/)
+
 ### Articles:
 
 - [Participating in Code Reviews as a Tester](https://www.stickyminds.com/article/participating-code-reviews-tester)
